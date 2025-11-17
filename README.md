@@ -1,6 +1,6 @@
 1. Clone the repo
 ```bash
-git clone 
+git clone https://github.com/chloew29/mental_health_chatbot.git
 cd mental_health_chatbot
 ```
 
